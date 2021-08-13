@@ -53,8 +53,8 @@ Este professor não utiliza a presença como critério de avaliação.
 
 ## Links extras interessantes
 
- - [Como emular um MacOS num ambiente Windows](https://www.youtube.com/watch?v=_qnoT7BvFjs) - Vídeo do YouTube - Dica do João
- - [Projetos descontinuados pelo Google](https://killedbygoogle.com/) - Dica do Leonardo
+ - [Como emular um MacOS num ambiente Windows](https://www.youtube.com/watch?v=_qnoT7BvFjs) - Vídeo do YouTube
+ - [Projetos descontinuados pelo Google](https://killedbygoogle.com/)
  - [Fundamentos de Lógica de Programação](https://www.ev.org.br/cursos/fundamentos-de-logica-de-programacao) - Fundação Bradesco
  - [Curso de Lógica de Programação](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) - Vídeos do YouTube
  - [Curso em Vídeo do Gustavo Guanabara](https://www.youtube.com/c/CursoemV%C3%ADdeo/playlists) - Playlists do YouTube
