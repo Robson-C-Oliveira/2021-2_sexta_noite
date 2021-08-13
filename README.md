@@ -14,6 +14,15 @@ Essa disciplina ainda não demanda nenhuma atividade.
 
 ## Preparação do ambiente
 
+A preparação do ambiente de desenvolvimento é bastante simples, mas requer bastante cuidado e atenção aos detalhes. 
+
+O site oficial do flutter é [https://flutter.dev/](https://flutter.dev/) e no link "DOCS", em seguida "Get Started" você consegue verificar todo passo-a-passo para a preparação do ambiente de forma oficial e atualizada.
+
+
+### 1º Passo - Instalação do Flutter SDK
+
+Se utiliza Windows como Sistema Operacional, clique [NESTE LINK](https://flutter.dev/docs/get-started/install/windows) para acessar a página de download da SDK
+
 
 ## Ementa básica
 
