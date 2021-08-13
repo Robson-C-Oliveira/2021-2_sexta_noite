@@ -68,3 +68,4 @@ Este professor não utiliza a presença como critério de avaliação.
  - [Canal do Código Fonte TV](https://www.youtube.com/user/codigofontetv)
  - [Canal do Fábio Akita](https://www.youtube.com/c/FabioAkita1990/videos)
  - [Technology Radar](https://www.thoughtworks.com/pt/radar)
+ - [Game Swift Playgrounds](https://apps.apple.com/br/app/swift-playgrounds/id1496833156?mt=12) - Jogo para aprender Swift (exclusivo para iPad e Macs)
