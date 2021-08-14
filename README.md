@@ -14,14 +14,23 @@ Essa disciplina ainda não demanda nenhuma atividade.
 
 ## Preparação do ambiente
 
-A preparação do ambiente de desenvolvimento é bastante simples, mas requer bastante cuidado e atenção aos detalhes. 
+A preparação do ambiente de desenvolvimento é bastante simples, mas requer bastante cuidado e atenção aos detalhes.
 
 O site oficial do flutter é [https://flutter.dev/](https://flutter.dev/) e no link "DOCS", em seguida "Get Started" você consegue verificar todo passo-a-passo para a preparação do ambiente de forma oficial e atualizada.
 
 
 ### 1º Passo - Instalação do Flutter SDK
 
-Se utiliza Windows como Sistema Operacional, clique [NESTE LINK](https://flutter.dev/docs/get-started/install/windows) para acessar a página de download da SDK
+Se utiliza **Windows** como Sistema Operacional, clique [NESTE LINK](https://flutter.dev/docs/get-started/install/windows) para acessar a página de download da SDK. Faça o download normalmente.
+
+Se utiliza **MacOS** como Sistema Operacional, clique [NESTE LINK](https://flutter.dev/docs/get-started/install/macos) para acessar a página de download da SDK. Faça o download normalmente.
+
+Se utiliza **Linux** como Sistema Operacional, clique [NESTE LINK](https://flutter.dev/docs/get-started/install/linux) para acessar a página de download da SDK. Faça o download normalmente.
+
+Baixar e extrair a SDK normalmente. Coloca-la em um local seguro como, por exemplo, c:\\flutter\\sdk (para usuários de windows) ou na home do usuário para usuários Linux e Mac.
+
+
+NA PRÓXIMA AULA MOSTRAREI COMO ACERTAR O PATH E CONFIGURAR O ANDROID STUDIO, ALÉM DE OUTRAS IDES. :D
 
 
 ## Ementa básica
@@ -37,7 +46,7 @@ Este professor utilizará unica e exclusivamente atividades de múltipla escolha
 
 A média final deste professor é calculada simplesmente pela média das atividades e eventual pontuação extra.
 
-Este professor não aplica nenhuma prova durante o semestre. 
+Este professor não aplica nenhuma prova durante o semestre.
 
 De qualquer maneira, a média final de cada disciplina de vocês **normalmente** é calculada da seguinte forma:
 
@@ -57,7 +66,7 @@ Este professor não utiliza a presença como critério de avaliação.
  - Windmill. E., **[Flutter in Action](https://learning.oreilly.com/library/view/flutter-in-action/9781617296147/)**, 2020
  - Sommerville I., **[Engenharia de Software](https://plataforma.bvirtual.com.br/Acervo/Publicacao/168127)**, 10ª ed., Ed. Pearson, 2019
  - Martin, R. C., **[Clean Architecture: A Craftsman’s Guide to Software Structure and Design](https://learning.oreilly.com/library/view/clean-architecture-a/9780134494272/)**, Ed. Pearson. 2017
- 
+
 
 
 ## Links extras interessantes
