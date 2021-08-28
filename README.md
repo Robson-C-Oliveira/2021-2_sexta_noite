@@ -27,10 +27,17 @@ Se utiliza **MacOS** como Sistema Operacional, clique [NESTE LINK](https://flutt
 
 Se utiliza **Linux** como Sistema Operacional, clique [NESTE LINK](https://flutter.dev/docs/get-started/install/linux) para acessar a página de download da SDK. Faça o download normalmente.
 
-Baixar e extrair a SDK normalmente. Coloca-la em um local seguro como, por exemplo, c:\\flutter\\sdk (para usuários de windows) ou na home do usuário para usuários Linux e Mac.
+Baixar e extrair a SDK normalmente. Colocaá-la em um local seguro como, por exemplo, c:\\flutter\\sdk (para usuários de windows) ou na home do usuário para usuários Linux e Mac.
 
 
-NA PRÓXIMA AULA MOSTRAREI COMO ACERTAR O PATH E CONFIGURAR O ANDROID STUDIO, ALÉM DE OUTRAS IDES. :D
+### 2º Passo - Acertar o PATH do sistema
+
+No windows abrir as variáveis de ambiente (digitar na busca "Variáveis de Ambiente" OU Teclar "Windows" + "Pause Break", clicar em "Configurações avancádas do sistema).
+
+Editar a variável "Path" do quadro do usuário (quadro de cima) e acrecentar o caminho de onde você extraiu o Flutter + a pasta bin.
+
+
+
 
 
 ## Ementa básica
